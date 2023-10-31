@@ -1,4 +1,4 @@
-![568055319B83813A094B78B172AF5252](https://github.com/niantian/S_AES-/assets/110915884/6298f239-c120-4631-9a37-93fa48802df9)![E7L_R{H`)`K4ASHWC888~IW](https://github.com/niantian/S_AES-/assets/110915884/9420752e-1636-42bb-a11c-15d032a842d7)# S_AES-
+
 实现简易地S_DES算法，功能包括二进制加解密，ASCII码加解密，暴力破解和碰撞测试。
 
 介绍：SAES是一种简化过的数据加密标准，本文介绍如何使用SAES来进行加密以及解密文本数据。
